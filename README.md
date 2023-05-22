@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ishandwivedi100@gmail.com**
 
-- ⚡ Fun fact **An IT Professional **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
