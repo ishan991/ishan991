@@ -1,4 +1,4 @@
-###Hi there👋, I'm Ishan
+**Hi there👋, **I'm Ishan****
 
 
 - 🔭  I’m currently learning Power BI, Python, SQL, Excel
